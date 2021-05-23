@@ -6,4 +6,4 @@ tomorrow wanda
 comtinue test
 comtinue testw
 dddd
-add dev
+add dev ora
